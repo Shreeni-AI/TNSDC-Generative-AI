@@ -34,10 +34,10 @@ Notification through mail allows users to keep track of your food purchases and 
 
 	Extensions:- 
 	    We can extend this project by adding features like :- 
-(1)  Capturing and detecting the contents using camera
-(2)  Gathering information about quality of food items available
-(3)  Prepare list of groceries for shopping
-(4)  Suggest recipes based on the YouTube subscriptions 
+(1)  Capturing and detecting the contents using camera.
+(2)  Gathering information about quality of food items available.
+(3)  Prepare list of groceries for shopping.
+(4)  Suggest recipes based on the YouTube subscriptions.
 
 3.   Conclusion
 As we are moving towards smart living, our concept of developing affordable yet smart fridge management systems makes it easier to reduce food wastage, helps in grocery shopping and also in cooking suggestions.
