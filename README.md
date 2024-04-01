@@ -1,4 +1,4 @@
-# shreeni
+# smart refrigerator
 Smart refrigerator management system
 
 
