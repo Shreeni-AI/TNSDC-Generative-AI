@@ -1,4 +1,4 @@
-# FREEZls
+# smart refrigerator project
 Smart refrigerator management system
 
 
